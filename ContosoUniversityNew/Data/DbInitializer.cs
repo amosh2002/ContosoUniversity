@@ -1,8 +1,8 @@
-﻿using ContosoUniversity.Models;
+﻿using ContosoUniversityNew.Models;
 using System;
 using System.Linq;
 
-namespace ContosoUniversity.Models
+namespace ContosoUniversityNew.Models
 {
     public static class DbInitializer
     {

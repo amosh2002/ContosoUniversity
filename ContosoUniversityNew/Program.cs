@@ -1,4 +1,4 @@
-﻿using ContosoUniversity.Models;
+﻿using ContosoUniversityNew.Models;
 using ContosoUniversityNew;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
 
-namespace ContosoUniversity
+namespace ContosoUniversityNew
 {
     public class Program
     {
